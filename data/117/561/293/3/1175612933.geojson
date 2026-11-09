@@ -73,14 +73,12 @@
             "continent_id":102191581,
             "country_id":85633287,
             "disputed_id":1159339529,
-            "locality_id":101878267,
             "region_id":85686431
         },
         {
             "continent_id":102191581,
             "country_id":-1,
             "disputed_id":1159339529,
-            "locality_id":101878267,
             "region_id":85686431
         }
     ],
